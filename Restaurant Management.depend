@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1559707172 source:d:\programming sem 2\restaurant management + khairul\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<cstdlib>
+	<cstdio>
+	<stdio.h>
+	<conio.h>
+	<iomanip>
+	<cstring>
+

@@ -1,0 +1,1 @@
+Ahmad Ali Baba/Cook/123456789/3 23 Ahmad Khairul Aiman/Head Chef/201842254/5 45 Faidi Akif/Manager/201867943/4.5 49 Danish Firdaus/Planner/201864216/5 43 Gordon Ramsei/Chef/201845843/3.5 28 John Conner/Cook/2063956/3 34Llamma Lare/Waiter/201834023/2 39 Mercei Des/Cashier/201875314/2.5 34 Olivia Oil/Waiter/201867432/2 41 Nasai Lama/Cashier/201874632/2.5 19 

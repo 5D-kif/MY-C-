@@ -1,0 +1,3 @@
+ Fried Chicken;Fries;Coke;RM 19;
+ Burger;Coke;;RM 14;
+ Fries;Coke;;RM 10;

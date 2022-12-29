@@ -1,0 +1,3 @@
+ Fish Fillet;Red Bull;;RM 12;
+ Paratha Wrap;Sprite;;RM 8;
+ Mac & Cheese;Coke Light;;RM 13;
